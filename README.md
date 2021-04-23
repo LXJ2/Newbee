@@ -1,0 +1,2 @@
+# Newbee
+First practice repository
